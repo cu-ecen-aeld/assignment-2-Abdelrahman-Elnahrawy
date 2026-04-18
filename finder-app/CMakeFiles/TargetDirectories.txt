@@ -1,0 +1,3 @@
+/home/magic-cat/assignment-1-Abdelrahman-Elnahrawy/finder-app/CMakeFiles/writer.dir
+/home/magic-cat/assignment-1-Abdelrahman-Elnahrawy/finder-app/CMakeFiles/edit_cache.dir
+/home/magic-cat/assignment-1-Abdelrahman-Elnahrawy/finder-app/CMakeFiles/rebuild_cache.dir
